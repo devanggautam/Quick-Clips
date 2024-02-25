@@ -1,0 +1,55 @@
+.shortsPlayerContainer {
+    height: 80vh;
+    width: 180vw;
+    border: 1px solid black;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.shortsPlayerContainer>div>video {
+    border-radius: 20px !important;
+    object-fit: cover;
+    max-width: 100%!important;
+    height: 100%;
+}
+
+.shortsPlayerContainer>div {
+    border-radius: 20px !important;
+}
+
+.userActionsContainer {
+    display: flex;
+    flex-direction: column;
+    z-index: 10;
+    position: absolute;
+    right: 1.5vw;
+    /* bottom: 30vh; */
+
+}
+
+.shortDetailsContainer {
+    display: flex;
+    flex-direction: column;
+    z-index: 10;
+    position: absolute;
+    left: 0.5vw;
+    bottom: 1vh;
+    padding: 0 10px;
+
+}
+
+.dislikeIcon {
+    font-size: 35px;
+    color: white;
+    cursor: pointer;
+
+}
+
+.likeIcon {
+    font-size: 35px;
+    color: white;
+    cursor: pointer;
+    margin-bottom: 15px;
+
+}

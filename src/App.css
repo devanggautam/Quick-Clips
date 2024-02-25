@@ -1,38 +1,19 @@
-.App {
-  text-align: center;
+.slick-next::before{
+    content: none!important;
+    font-size: 10px!important;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.slick-next{
+    font-size: 10px!important;
+    color: black!important;
+    right: 34vw!important;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.slick-prev::before{
+    content: none!important;
+    font-size: 10px!important;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.slick-prev{
+    font-size: 10px!important;
+    color: black!important;
+    left: 33vw!important;
+    z-index: 20!important;
 }

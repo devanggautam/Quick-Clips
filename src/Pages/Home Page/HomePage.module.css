@@ -1,0 +1,10 @@
+.quickClipsLogo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.quickClipsLogo > h4 {
+    color: white;
+    margin: 0!important;
+}
