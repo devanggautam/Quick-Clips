@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Quick-Clips/static/css/main.a4cdbdc8.css",
+    "main.js": "/Quick-Clips/static/js/main.bbbb0549.js",
+    "static/js/453.cdca5f66.chunk.js": "/Quick-Clips/static/js/453.cdca5f66.chunk.js",
+    "static/media/Left Arrow.png": "/Quick-Clips/static/media/Left Arrow.d073c62c5297b5a8f2e2.png",
+    "static/media/Right Arrow.png": "/Quick-Clips/static/media/Right Arrow.cc25cb0a14e1d4c9f814.png",
+    "static/media/logo.svg": "/Quick-Clips/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Quick-Clips/index.html",
+    "main.a4cdbdc8.css.map": "/Quick-Clips/static/css/main.a4cdbdc8.css.map",
+    "main.bbbb0549.js.map": "/Quick-Clips/static/js/main.bbbb0549.js.map",
+    "453.cdca5f66.chunk.js.map": "/Quick-Clips/static/js/453.cdca5f66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4cdbdc8.css",
+    "static/js/main.bbbb0549.js"
+  ]
+}
