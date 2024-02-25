@@ -38,6 +38,12 @@ npm start
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
-ver
+
+## DEMO
+
+Try out the Quick Clips app [here](https://quick-clips-devanggautam-devang-gautams-projects.vercel.app?_vercel_share=bnHRu8OhlViZBhXk49qrJO7jhkaxGPZy).
 
 Feel free to enhance this README further with additional details or instructions specific to your project.
+```
+
+Feel free to use this complete README in your project! Let me know if you need any further adjustments.
